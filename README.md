@@ -13,7 +13,7 @@
     </a>
   </div>
   <br>
-  <p>"To define is to limit" - Oscar Wilde</p><br>
+  <p>"To define is to limit" - Oscar Wilde</p>
 </div>
 
 ### Curoiusity killed the cat...

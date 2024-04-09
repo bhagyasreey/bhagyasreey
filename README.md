@@ -1,4 +1,12 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arizonia&size=35&pause=1000&color=025043&vCenter=true&multiline=true&width=800&height=60&lines=Hey+Fellow+Developer!+Welcome+aboard+my+profile!+%F0%9F%91%8B%F0%9F%8F%BB;)](https://git.io/typing-svg)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/bhagyasreey/count.svg" />
+</p>
+
+## Guestbook ([🆕🖊️ add an entry](https://github.com/openscript/openscript/issues/1#issuecomment-new))
+
 
 <!--
 **bhagyasreey/bhagyasreey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -5,7 +5,7 @@
   <img src="https://profile-counter.glitch.me/bhagyasreey/count.svg" />
 </p>
 
-## Guestbook ([🆕🖊️ add an entry](https://github.com/openscript/openscript/issues/1#issuecomment-new))
+## Guestbook ([🆕🖊️ add an entry](https://github.com/bhagyasreey/bhagyasreey/issues/1#issuecomment-new))
 
 
 <!--

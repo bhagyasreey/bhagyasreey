@@ -74,9 +74,12 @@
 
 ### Hmmm.. How am I doing 🤔
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=bhagyasreey&show_icons=true&theme=shadow_green)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhagyasreey&theme=vue)
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhagyasreey&layout=donut&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
-
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhagyasreey&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bhagyasreey&theme=vue)
+<br>
+<br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhagyasreey&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bhagyasreey&theme=vue&utcOffset=8)

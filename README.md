@@ -5,8 +5,6 @@
   <img src="https://profile-counter.glitch.me/bhagyasreey/count.svg" />
 </p>
 
-## Guestbook ([🆕🖊️ add an entry](https://github.com/bhagyasreey/bhagyasreey/issues/1#issuecomment-new))
-
 
 <!--
 **bhagyasreey/bhagyasreey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

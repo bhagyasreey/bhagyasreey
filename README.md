@@ -64,7 +64,6 @@
 <br><i><b><p>Tools</p></b></i><br>
     
   <img src="assets/vscode-original-wordmark.svg" title="VScode" alt="VScode" width="60" height="60"/>&nbsp;&nbsp;
-  <img src="assets/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;&nbsp;
   <img src="assets/canva-original.svg" title="Canva" alt="Canva" width="60" height="60"/>&nbsp;&nbsp;
   <img src="assets/figma-original.svg" title="Figma" alt="Figma" width="60" height="60"/>&nbsp;&nbsp;
   <img src="assets/notion-original.svg" title="Notion" alt="Notion" width="60" height="60"/>&nbsp;&nbsp;

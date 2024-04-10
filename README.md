@@ -38,38 +38,38 @@
 
 <div>
   <br><i><b><p>Languages</p></b></i><br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="60" height="60"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-plain-wordmark.svg" title="Sqlite" alt="Sqlite" width="60" height="60"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="60" height="60"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="60" height="60"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="60" height="60"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original-wordmark.svg" title="Julia" alt="Julia" width="60" height="60"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="60" height="60"/>&nbsp;&nbsp;
+  <img src="assets/c-original.svg" title="c" alt="c" width="60" height="60"/>&nbsp;&nbsp;
+  <img src="assets/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;&nbsp;
+  <img src="assets/python-original.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;&nbsp;
+  <img src="assets/sqlite-plain-wordmark.svg" title="Sqlite" alt="Sqlite" width="60" height="60"/>&nbsp;&nbsp;
+  <img src="assets/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;&nbsp;
+  <img src="assets/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;&nbsp;
+  <img src="assets/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;&nbsp;
+  <img src="assets/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/>&nbsp;&nbsp;
+  <img src="assets/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="60" height="60"/>&nbsp;&nbsp;
+  <img src="assets/matlab-original.svg" title="Matlab" alt="Matlab" width="60" height="60"/>&nbsp;&nbsp;
+  <img src="assets/linux-original.svg" title="Linux" alt="Linux" width="60" height="60"/>&nbsp;&nbsp;
+  <img src="assets/julia-original-wordmark.svg" title="Julia" alt="Julia" width="60" height="60"/>&nbsp;&nbsp;
+  <img src="assets/flutter-original.svg" title="Flutter" alt="Flutter" width="60" height="60"/>&nbsp;&nbsp;
 
 <br><i><b><p>Packages</p></b></i><br>
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="60" height="60"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="60" height="60"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="scikitlearn" alt="ScikitLearn" width="60" height="60"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" title="Matplotlib" alt="Matplotlib" width="60" height="60"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original-wordmark.svg" title="Keras" alt="Keras" width="60" height="60"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="60" height="60"/>&nbsp;&nbsp;
+  <img src="assets/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="60" height="60"/>&nbsp;&nbsp;
+  <img src="assets/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="60" height="60"/>&nbsp;&nbsp;
+  <img src="assets/scikitlearn-original.svg" title="scikitlearn" alt="ScikitLearn" width="60" height="60"/>&nbsp;&nbsp;
+  <img src="assets/matplotlib-original-wordmark.svg" title="Matplotlib" alt="Matplotlib" width="60" height="60"/>&nbsp;&nbsp;
+  <img src="assets/keras-original-wordmark.svg" title="Keras" alt="Keras" width="60" height="60"/>&nbsp;&nbsp;
+  <img src="assets/flask-original-wordmark.svg" title="Flask" alt="Flask" width="60" height="60"/>&nbsp;&nbsp;
 
 <br><i><b><p>Tools</p></b></i><br>
     
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VScode" alt="VScode" width="60" height="60"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="60" height="60"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="60" height="60"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" title="Notion" alt="Notion" width="60" height="60"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" alt="Kaggle" width="60" height="60"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="60" height="60"/>&nbsp;&nbsp;<br><br> 
+  <img src="assets/vscode-original-wordmark.svg" title="VScode" alt="VScode" width="60" height="60"/>&nbsp;&nbsp;
+  <img src="assets/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;&nbsp;
+  <img src="assets/canva-original.svg" title="Canva" alt="Canva" width="60" height="60"/>&nbsp;&nbsp;
+  <img src="assets/figma-original.svg" title="Figma" alt="Figma" width="60" height="60"/>&nbsp;&nbsp;
+  <img src="assets/notion-original.svg" title="Notion" alt="Notion" width="60" height="60"/>&nbsp;&nbsp;
+  <img src="assets/kaggle-original-wordmark.svg" title="Kaggle" alt="Kaggle" width="60" height="60"/>&nbsp;&nbsp;
+  <img src="assets/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="60" height="60"/>&nbsp;&nbsp;<br><br> 
 </div>
 
 ### Hmmm.. How am I doing 🤔

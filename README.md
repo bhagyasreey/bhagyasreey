@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <br><br>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/bhagyasree-yadlapalli-064967266/">
+    <a href="https://www.linkedin.com/in/bhagyasree-yadlapalli/">
       <img src="https://img.shields.io/badge/LinkedIn-025043?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://translate.google.com/?sl=de&tl=en&op=translate">
@@ -21,9 +21,8 @@
 <br>
 
 🔭 I’m currently working on a Commonplace Notebook App<br><br>
-🌱 I’m currently learning Machine Learning + German<br><br>
-👯 I’m looking to collaborate on Machine Learning + Quantum<br><br>
-🤔 I’m looking for help with Nothing???<br><br>
+🌱 I’m currently learning Quantum + AGI<br><br>
+👯 I’m looking to collaborate on anything cool.<br><br>
 ⚡ Fun fact: A cloud weighs around a million tonnes.<br><br>
 
 ### But the satisfaction bought it back!!

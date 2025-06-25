@@ -2,7 +2,7 @@
 <br>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://d2w9rnfcy7mm78.cloudfront.net/14205123/original_9d57c899374ff21dc80e2d82602f603c.gif?1638389379?bc=0" width="100"/>
   <br><br>
   <div id="badges">
     <a href="https://www.linkedin.com/in/bhagyasree-y/">

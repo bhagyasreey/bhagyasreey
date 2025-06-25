@@ -2,7 +2,9 @@
 <br>
 
 <div id="header" align="center">
-  <video src="https://d2w9rnfcy7mm78.cloudfront.net/14205123/original_9d57c899374ff21dc80e2d82602f603c.gif" width="354"/>
+![flowers](https://github.com/user-attachments/assets/731ffe00-b5c4-43c6-bb56-6d13c987da01)
+
+
   <br><br>
   <div id="badges">
     <a href="https://www.linkedin.com/in/bhagyasree-y/">

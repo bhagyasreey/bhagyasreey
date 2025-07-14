@@ -3,11 +3,7 @@
 
 <div id="header" align="center">
 <img src="https://github.com/user-attachments/assets/ee6a6cb8-53ab-457d-9a8d-02b09e9da053" width=250 height=250>
-<!-- <img src="https://github.com/user-attachments/assets/6bc5a39e-4fa0-4221-9f80-f79af1087ccf" width="150">
-<img src="https://github.com/user-attachments/assets/6d8b7119-6144-4094-93eb-58e71817fc90" width="150">
-![flowers](https://github.com/user-attachments/assets/18d0e814-0836-4f7f-8d63-97221c50b4be)
 
-![space](https://github.com/user-attachments/assets/ee6a6cb8-53ab-457d-9a8d-02b09e9da053) -->
   <br><br>
   <div id="badges">
     <a href="https://www.linkedin.com/in/bhagyasree-y/">

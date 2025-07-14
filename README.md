@@ -1,10 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arizonia&size=35&pause=10000&color=025043&vCenter=true&multiline=true&width=800&height=60&lines=Hey+Curious+Dev!+Welcome+aboard+my+profile!+%F0%9F%91%8B%F0%9F%8F%BB;)](https://git.io/typing-svg)
-<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arizonia&size=38&pause=8000&color=025043&center=true&multiline=true&width=800&height=60&lines=Hey+Curious+Dev!+Welcome+aboard+my+profile!+%F0%9F%91%8B%F0%9F%8F%BB;)](https://git.io/typing-svg)
 
 <div id="header" align="center">
-<img src="https://github.com/user-attachments/assets/ee6a6cb8-53ab-457d-9a8d-02b09e9da053" width=250 height=250>
+<img src="https://github.com/user-attachments/assets/ee6a6cb8-53ab-457d-9a8d-02b09e9da053" width=200 height=200>
 
-  <br><br>
+  <br>
   <div id="badges">
     <a href="https://www.linkedin.com/in/bhagyasree-y/">
       <img src="https://img.shields.io/badge/LinkedIn-025043?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
